@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Eric Cartman",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/77/EricCartman.png"
+  },
+  {
+    "id": 2,
+    "name": "Stan Marsh",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/StanMarsh.png"
+  },
+  {
+    "id": 3,
+    "name": "Kyle Broflovski",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/25/KyleBroflovski.png"
+  },
+  {
+    "id": 4,
+    "name": "Kenny McCormick",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/KennyMcCormick.png"
+  },
+  {
+    "id": 5,
+    "name": "Chef",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/SouthParkChef.png"
+  },
+  {
+    "id": 6,
+    "name": "Butter Stotch",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/06/ButtersStotch.png"
+  },
+  {
+    "id": 7,
+    "name": "Jimmy Valmer",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/6/63/Jimmy_valmer_here.png/revision/latest?cb=20170815180902"
+  },
+  {
+    "id": 8,
+    "name": "Kevin Mephesto",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/8/8a/Kevin-mephesto.png/revision/latest?cb=20170122070414"
+  },
+  {
+    "id": 9,
+    "name": "Mr. Garrison",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/MrGarrison.png/140px-MrGarrison.png"
+
+  },
+  {
+    "id": 10,
+    "name": "Wendy Testaburger",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/Wendy_South_Park.png"
+  },
+  {
+    "id": 11,
+    "name": "Randy Marsh",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/f/f2/Randy_transparent_cockmagic.png/revision/latest?cb=20160402120457"
+  },
+  {
+    "id": 12,
+    "name": "Gerald and Sheila Broflovski",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Gerald_and_Sheila_Broflovski.png/225px-Gerald_and_Sheila_Broflovski.png"
+  }
+]
