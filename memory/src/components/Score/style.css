@@ -6,3 +6,11 @@
   color: #2A77AE;
   margin-bottom: 50px;
 }
+.gameScore {
+  text-align: center;
+  height: 70px;
+  position: relative;
+  line-height: 1em;
+  padding: 0;
+  margin: 0;
+}

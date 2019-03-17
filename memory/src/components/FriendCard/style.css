@@ -1,11 +1,11 @@
 .card {
-  background: #fff;
+  background: rgb(172, 211, 220);
   border-radius: 2px;
   height: 325px;
   margin: 1rem;
   position: relative;
   width: 325px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  box-shadow: 0 6px 9px #999, 0 3px 6px #999;
   text-align: left;
 }
 
@@ -16,7 +16,7 @@
   background:#6CADDC;
 }
 .card > .img-container > img {
-  width: 75%
+  width: 60%
 }
 
 .card > .content {
@@ -33,15 +33,4 @@
   margin-top: 18px;
 }
 
-/* .card > .remove {
-  color: #ff1744;
-  font-size: 48px;
-  position: absolute;
-  top: -20px;
-  right: 5px;
-  cursor: pointer;
-}
 
-.card > .remove:hover {
-  color: #d50000;
-} */

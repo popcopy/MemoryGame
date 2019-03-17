@@ -1,0 +1,19 @@
+.App-header {
+  background-color: rgb(47, 63, 165);
+  height: 80px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+.App-title {
+  font-size: 2em;
+  text-align: center; 
+}
+
+.App-intro {
+  font-size: large;
+}
+footer{
+  text-align: center;
+}
